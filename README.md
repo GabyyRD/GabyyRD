@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <div>
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabyyRD&show_icons=true&theme=transparent">-->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent">
 </div>
 
 ##
